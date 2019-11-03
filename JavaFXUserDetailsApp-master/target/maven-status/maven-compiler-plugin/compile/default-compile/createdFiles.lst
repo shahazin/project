@@ -1,0 +1,17 @@
+com\codetreatise\repository\UserRepository.class
+com\codetreatise\config\AppJavaConfig.class
+com\codetreatise\config\StageManager.class
+com\codetreatise\service\impl\UserServiceImpl.class
+com\codetreatise\view\FxmlView$1.class
+com\codetreatise\controller\UserController$1.class
+com\codetreatise\generic\GenericService.class
+com\codetreatise\bean\User.class
+com\codetreatise\controller\LoginController.class
+com\codetreatise\view\FxmlView.class
+com\codetreatise\logging\ExceptionWriter.class
+com\codetreatise\view\FxmlView$2.class
+com\codetreatise\controller\UserController.class
+com\codetreatise\service\UserService.class
+com\codetreatise\config\SpringFXMLLoader.class
+com\codetreatise\Main.class
+com\codetreatise\controller\UserController$1$1.class

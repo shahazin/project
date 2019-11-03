@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: JavaFXSpringBootApp
+Implementation-Version: 1.0
+Built-By: Abdul
+Implementation-Vendor-Id: com.codetreatise
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/JavaFXSpring
+ BootApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
