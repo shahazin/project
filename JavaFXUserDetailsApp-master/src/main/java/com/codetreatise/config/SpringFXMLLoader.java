@@ -7,7 +7,7 @@ import javafx.scene.Parent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
-//k
+//kk
 /**
  * Will load the FXML hierarchy as specified in the load method and register
  * Spring as the FXML Controller Factory. Allows Spring and Java FX to coexist
